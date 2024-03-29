@@ -1,0 +1,3 @@
+**a.** The nominal variables *ACADEMIC_INTEREST_1*, *ACADEMIC_INTEREST_2*, and *IRSCHOOL* were rejected because they were replaced by the interval variables *INT1RAT*, *INT2RAT*, and *HSCRAT*, respectively. For example, academic interest codes 1 and 2 were replaced by the percentage of inquirers over the past five years who indicated those interest codes and then enrolled. The variable *IRSCHOOL* represents the high school code of the student, and it was replaced by the percentage of inquirers from that high school over the last five years who enrolled.
+
+**b.** *CONTACT_CODE1* and *CONTACT_DATE1* are also rejected due to their irrelevance suggested by Enrollment Management.
